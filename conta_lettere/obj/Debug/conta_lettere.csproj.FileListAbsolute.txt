@@ -1,0 +1,10 @@
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\bin\Debug\conta_lettere.exe.config
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\bin\Debug\conta_lettere.exe
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\bin\Debug\conta_lettere.pdb
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\obj\Debug\conta_lettere.csproj.AssemblyReference.cache
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\obj\Debug\conta_lettere.Form1.resources
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\obj\Debug\conta_lettere.Properties.Resources.resources
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\obj\Debug\conta_lettere.csproj.GenerateResource.cache
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\obj\Debug\conta_lettere.csproj.CoreCompileInputs.cache
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\obj\Debug\conta_lettere.exe
+C:\Users\petean.damian\Desktop\conta_lettere\conta_lettere\obj\Debug\conta_lettere.pdb

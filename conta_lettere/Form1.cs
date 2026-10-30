@@ -16,5 +16,29 @@ namespace conta_lettere
         {
             InitializeComponent();
         }
+
+        private void btn_conta_Click(object sender, EventArgs e)
+        {
+            string stringa = txt_frase.Text;
+            int[] conta = new int[26];
+
+            foreach (char c in stringa)
+            {
+                char lettera = char.ToUpper(c);
+                if (lettera >= 'A' && lettera <= 'Z')
+                {
+                    int indice = lettera - 'A';
+                    conta[indice]++;
+                }
+            }
+            for ( int i = 0; i < 26; i++)
+            {
+                if (conta[i] > 0)
+                {
+                    char letteraT = (char)('A' + i);
+                    list_lettere.Items.Add("lettera " + letteraT + ": " + conta[i]);
+                }
+            }
+        }
     }
 }
